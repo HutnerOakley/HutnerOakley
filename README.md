@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HunterOakley</h1>
 
 <p align="center">
-  一名Python、Go 和 AI应用开发的开发者
+  一名Python、Go 和AI 应用开发的开发者
 </p>
 
 ## 👨‍💻 About Me
