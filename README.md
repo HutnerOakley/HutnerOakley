@@ -14,22 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=HunterOakley&show_icons=true&theme=transparent&locale=cn&hide_border=true"
-    alt="HunterOakley's GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HunterOakley&layout=compact&theme=transparent&locale=cn&hide_border=true"
-    alt="HunterOakley's Top Languages"
-  />
-</p>
 
 ## 🚀 Featured Projects
 
