@@ -5,6 +5,8 @@
 </p>
 
 ## 👨‍💻 About Me
+- 🔭 一个喜欢编程、篮球、游戏的人
+- 💬 欢迎交流编程、运动、游戏和人工智能
 - 📫 联系我：G13360075293@163.com
 
 ## 🛠️ Languages and Tools
@@ -17,10 +19,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=HunterOakley&show_icons=true&theme=tokyonight" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterOakley&layout=compact&theme=tokyonight" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=HunterOakley&show_icons=true&theme=transparent&locale=cn&hide_border=true"
+    alt="HunterOakley's GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=HunterOakley&layout=compact&theme=transparent&locale=cn&hide_border=true"
+    alt="HunterOakley's Top Languages"
+  />
 </p>
 
 ## 🚀 Featured Projects
